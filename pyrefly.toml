@@ -1,0 +1,3 @@
+# Pyrefly configuration - point to the virtual environment interpreter
+# so type checking uses the correct installed packages (chromadb, groq, etc.)
+python_interpreter = "D:\\Hackthon Project - Copy\\BidEngine\\backend\\venv\\Scripts\\python.exe"
